@@ -1,0 +1,9 @@
+[submodule "peon-time-tracking"]
+	path = peon-time-tracking
+	url = https://github.com/peon-build/peon-time-tracking
+[submodule "peon-log"]
+	path = peon-log
+	url = https://github.com/peon-build/peon-log
+[submodule "peon"]
+	path = peon
+	url = https://github.com/peon-build/peon

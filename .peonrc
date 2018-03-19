@@ -1,0 +1,18 @@
+
+/**@type {PeonBuild.PeonRc.Config}*/
+module.exports = {
+
+	name: "peon-build",
+	//stages
+	stages: [
+		"clean",
+		"transpile",
+		"tests",
+		"build",
+		"pack",
+		{
+			name: "deploy",
+			when: "manual"
+		}
+	]
+};
