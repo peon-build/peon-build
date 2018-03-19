@@ -11,4 +11,5 @@ Peon build repo with all modules in one.
 #### Future and new features
 
 Peon is still evolving so there are lots of features to implements in new version.
+
 [There is list](doc/peon-future.md) of possible future features!
