@@ -5,15 +5,15 @@ after end there will be enhancement and future implementation of given feature.
 
 ### Must have
 
- - [] Loading from .gitignore, .hgignoer and others use it in 'loader'
- - [] Load name from package.json
- - [] Load version info from package.json
- - [] Support for inline less, css and others
- - [] Auto tests resolving
- - [] Pretiffier support and impl
+ - [ ] Loading from .gitignore, .hgignoer and others use it in 'loader'
+ - [ ] Load name from package.json
+ - [ ] Load version info from package.json
+ - [ ] Support for inline less, css and others
+ - [ ] Auto tests resolving
+ - [ ] Pretiffier support and impl
 
 ### Ideas
 
- - [] Support for localize and testing projects, export to supproted format files (.po, .json)
- - [] Dependencies info and used modules
- - [] Automatic link support 
+ - [ ] Support for localize and testing projects, export to supproted format files (.po, .json)
+ - [ ] Dependencies info and used modules
+ - [ ] Automatic link support 
