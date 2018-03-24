@@ -6,7 +6,7 @@ after end there will be enhancement and future implementation of given feature.
 ### Must have
 
  - [x] Loading from .gitignore, .hgignore and others use it in 'loader'
- - [ ] Load name from package.json
+ - [x] Load name from package.json
  - [ ] Load version info from package.json
  - [ ] Support for inline less, css and others
  - [ ] Auto tests resolving
