@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Peon: Peon &quot;build&quot; cmd module &quot;peon-log&quot;" type="NodeJSConfigurationType" factoryName="Node.js" singleton="false" application-parameters="build peon-log" path-to-js-file="peon/peon.js" working-dir="$PROJECT_DIR$">
+    <method />
+  </configuration>
+</component>
