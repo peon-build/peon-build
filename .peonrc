@@ -6,7 +6,6 @@ module.exports = {
 	//stages
 	stages: [
 		"clean",
-		"transpile",
 		"tests",
 		"build",
 		"pack",
