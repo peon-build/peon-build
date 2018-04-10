@@ -6,6 +6,12 @@ module.exports = {
 	name: "peon-build",
 	//version
 	version: "1.0.0",
+	//dependencies
+	dependencies: [
+		{module: "@peon-build/peon-log", version: "*"},
+		{module: "@peon-build/peon-time-tracking", version: "*"},
+		{module: "@peon-build/peon", version: "*"},
+	],
 	//stages
 	stages: [
 		"clean",
