@@ -14,7 +14,8 @@ after end there will be enhancement and future implementation of given feature.
 
 ### Ideas
 
+ - [ ] Automatic link support 
+ - [ ] Update to another branch? How to solve node modules?
  - [ ] Support for localize and testing projects, export to supproted format files (.po, .json)
  - [ ] Dependencies info and used modules
- - [ ] Automatic link support 
  - [ ] Marking new tests with current bug id? Define bug tracker pattern
